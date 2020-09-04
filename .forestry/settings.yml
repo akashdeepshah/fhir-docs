@@ -9,7 +9,7 @@ sections:
 - type: directory
   path: docs
   label: Docs
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - documentation-page
